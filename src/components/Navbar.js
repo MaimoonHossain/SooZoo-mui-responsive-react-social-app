@@ -49,7 +49,7 @@ const Navbar = () => {
     <AppBar position="sticky">
       <StyledToolbar>
         <Typography
-          variant="h6"
+          variant="h5"
           sx={{
             display: {
               xs: "none",
@@ -57,7 +57,7 @@ const Navbar = () => {
             },
           }}
         >
-          LAMA DEV
+          SooZoo
         </Typography>
         <Pets
           sx={{
